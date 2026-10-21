@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-657-feat-cli-add-request-timeouts-to-stellar-rpc",
+    "fix/issue-619-test-frontend-cover-connectfreighter-and",
+    "fix/issue-625-test-frontend-add-unit-tests-for",
+    "fix/issue-651-fix-cli-validate-input-in-hextobytes",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-657-feat-cli-add-request-timeouts-to-stellar-rpc": "main",
+    "fix/issue-619-test-frontend-cover-connectfreighter-and": "main",
+    "fix/issue-625-test-frontend-add-unit-tests-for": "main",
+    "fix/issue-651-fix-cli-validate-input-in-hextobytes": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-657-feat-cli-add-request-timeouts-to-stellar-rpc",
+    "fix/issue-619-test-frontend-cover-connectfreighter-and",
+    "fix/issue-625-test-frontend-add-unit-tests-for",
+    "fix/issue-651-fix-cli-validate-input-in-hextobytes",
+    "origin"
+  ]
+}
